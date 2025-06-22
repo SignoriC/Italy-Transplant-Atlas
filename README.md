@@ -75,13 +75,13 @@ Explore the live dashboard: [Italy Transplant Atlas](https://public.tableau.com/
 ---
 
 ### 🛠 Technologies Used
-- Python (numpy, pandas, camelot, selenium, os, time)
+- **Python** (*numpy, pandas, camelot, selenium, os, time*)
 
-- Jupyter Notebooks
+- **Jupyter Notebooks**
 
-- Tableau Public / Power BI
+- **Tableau Public / Power BI**
 
-- GitHub
+- **ChatGPT** (*for documentation, code refactoring, data cleaning strategies, and automation support*)
 
 ---
 
