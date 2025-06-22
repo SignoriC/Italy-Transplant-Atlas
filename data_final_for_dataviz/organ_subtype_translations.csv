@@ -1,0 +1,25 @@
+Italian_Term,English_Organ_Name
+Rene,Kidney
+Rene doppio,Double Kidney
+Rene - fegato,Kidney - Liver
+Rene - pancreas,Kidney - Pancreas
+Rene - fegato - pancreas,Kidney - Liver - Pancreas
+Rene - cuore,Kidney - Heart
+Fegato,Liver
+Fegato - pancreas,Liver - Pancreas
+Fegato - pancreas - intestino,Liver - Pancreas - Intestine
+Cuore - fegato,Heart - Liver
+Cuore,Heart
+Cuore - polmone doppio,Heart - Double Lung
+Polmone,Lung
+Polmone doppio,Double Lung
+Pancreas,Pancreas
+Pancreas - intestino,Pancreas - Intestine
+Intestino,Intestine
+Fegato - pancreas - polmone doppio,Liver - Pancreas - Double Lung
+Fegato - polmone doppio,Liver - Double Lung
+Rene doppio - fegato,Double Kidney - Liver
+Rene - polmone,Kidney - Lung
+Rene - polmone doppio,Kidney - Double Lung
+Doppio rene - pancreas,Double Kidney - Pancreas
+allo-HCT,Allo-HCT
