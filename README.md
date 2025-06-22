@@ -109,7 +109,7 @@ Explore the live dashboard: [Italy Transplant Atlas](https://public.tableau.com/
 
 ### 🧠 Author
 Carlo Signorini
-📫 [LinkedIn](linkedin.com/in/carlosignorini)
+📫 [LinkedIn](https://www.linkedin.com/in/carlosignorini/)
 
 ---
 
